@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [序](README.md)
+* [创始说](chapter1.md)
 
 ## 生鲜
 
