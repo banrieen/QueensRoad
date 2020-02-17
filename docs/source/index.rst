@@ -10,8 +10,7 @@
    :glob:
    :maxdepth: 2
    :caption: 椒乐乐生鲜店海报
-   
-   SUMMARY.md
+
    sheng-xian/*
 
 
