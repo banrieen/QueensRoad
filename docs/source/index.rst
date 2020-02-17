@@ -11,7 +11,7 @@
    :maxdepth: 2
    :caption: 椒乐乐生鲜店海报
 
-   sheng-xian/*
+   生鲜/*
 
 
 Indices and tables
