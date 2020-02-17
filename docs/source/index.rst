@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to caiqi's documentation!
+欢迎来到采芑的海报中心！
 =================================
 
 .. toctree::
