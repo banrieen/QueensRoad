@@ -5,8 +5,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
-build
+docs/build/
 _templates
 develop-eggs/
 dist/
