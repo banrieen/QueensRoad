@@ -47,9 +47,6 @@ source_suffix = {
 # A list of paths that contain custom static files (such as style sheets or script files). Relative paths are taken as relative to the configuration directory. They are copied to the output’s _static directory after the theme’s static files, so a file named default.css will overwrite the theme’s default.css.
 html_static_path = ['_static']
 
-# These patterns also affect html_static_path and html_extra_path
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
 
