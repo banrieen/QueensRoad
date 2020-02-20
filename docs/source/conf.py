@@ -16,7 +16,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '采芑网络鲜品'
+project = '南山札记'
 copyright = '2020, banrieen'
 author = 'banrieen'
 
@@ -81,4 +81,4 @@ html_static_path = ['_static']
 source_encoding = "UTF-8"
 
 # The “title” for HTML documentation generated with Sphinx’s own templates. This is appended to the <title> tag of individual pages, and used in the navigation bar as the “topmost” element. It defaults to '<project> v<revision> documentation'.
-html_title = "采芑网络鲜品 1.0 文档"
+html_title = "南山札记 1.0 文档"

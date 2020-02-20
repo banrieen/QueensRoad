@@ -8,10 +8,10 @@
 
 ## 尝鲜新品海报
 
-* [香港购物生活](source/sheng-xian/xiang-gang-gou-wu-sheng-huo.md)
-* [尝鲜网说](source/sheng-xian/chang-xian-wang-shuo.md)
+* [香港购物生活](source/生鲜/香港购物生活.md)
+* [尝鲜网说](source/生鲜/尝鲜说.md)
 
 ## 椒乐乐生鲜海报
 
-* [邕州生鲜（一）](source/sheng-xian/yong-zhou-sheng-xian-ff08-yi-ff09.md)
-* [民乐特产推销](source/sheng-xian/min-le-te-chan-tui-xiao.md)
+* [邕州生鲜（一）](source/生鲜/邕州生鲜.md)
+* [民乐特产推销](source/生鲜/民乐土特产推销.md)
